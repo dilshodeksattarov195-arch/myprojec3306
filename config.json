@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricseelete",
+        "uuid": 17637510,
+        "checksum": "sow2lc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
